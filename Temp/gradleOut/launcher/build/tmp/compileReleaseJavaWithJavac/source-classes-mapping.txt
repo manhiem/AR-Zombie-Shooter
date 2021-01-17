@@ -1,0 +1,2 @@
+com/DefaultCompany/ArtGallery/BuildConfig.java
+ com.DefaultCompany.ArtGallery.BuildConfig
